@@ -1,0 +1,36 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/nextjs-boilerplate-chakra/node_modules
+/nextjs-boilerplate-chakra/.pnp
+/nextjs-boilerplate-chakra/.pnp.js
+
+# testing
+/nextjs-boilerplate-chakra/coverage
+
+# next.js
+/nextjs-boilerplate-chakra/.next/
+/nextjs-boilerplate-chakra/out/
+
+# production
+/nextjs-boilerplate-chakra/build
+
+# misc
+/nextjs-boilerplate-chakra/.DS_Store
+/nextjs-boilerplate-chakra/*.pem
+
+# debug
+/nextjs-boilerplate-chakra/npm-debug.log*
+/nextjs-boilerplate-chakra/yarn-debug.log*
+/nextjs-boilerplate-chakra/yarn-error.log*
+/nextjs-boilerplate-chakra/.pnpm-debug.log*
+
+# local env files
+/nextjs-boilerplate-chakra/.env*.local
+
+# vercel
+/nextjs-boilerplate-chakra/.vercel
+
+# typescript
+/nextjs-boilerplate-chakra/*.tsbuildinfo
+/nextjs-boilerplate-chakra/next-env.d.ts
